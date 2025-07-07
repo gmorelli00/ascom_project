@@ -40,7 +40,7 @@ Before running the app, create a `.env` file at the root.
 
 ## Setup Instructions
 
-1. **Clone the repository**
+Clone the repository
    ```bash
    git clone https://github.com/gmorelli00/ascom_project.git
    cd ascom
