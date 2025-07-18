@@ -1,4 +1,4 @@
-# ascom_project
+# Ascom project
 
 ## Patient Manager – Frontend Engineer Test
 
@@ -43,7 +43,7 @@ Before running the app, create a `.env` file at the root.
 Clone the repository
    ```bash
    git clone https://github.com/gmorelli00/ascom_project.git
-   cd ascom
+   cd ascom_project
    ```
    
 Install dependencies
@@ -54,5 +54,5 @@ Start the development server
   ```bash
   npm run dev
    ```
-Open the app
+## Open the app
 Visit http://localhost:5173 in your browser.
